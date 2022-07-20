@@ -1,17 +1,31 @@
-### Hi there 👋
+## Hi, I'm yuanlu (元路) 👋
 
 China - Beijing / UTC+08:00  
 Student / Major: Big Data (数据科学与大数据技术) / OIer  
 
-Good at: Java, C/C++, JS/TS, Sql(Sqlite/MySql)  
-Can use: Python, Matlab, R  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MineYuanlu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-Personal Git: https://git.yuanlu.bid/yuanlu
+### Proficient
+- Java
+- C/C++
+- JS/TS
+- Sql (Sqlite/MySql)  
+### Still learning
+- Kotlin
+- Python
+- Matlab
+- R  
+
+### Hobbies
+- robot vision
+- NLP / ML
+- Full Stack Web Develop
+
+My Git: https://git.yuanlu.bid/yuanlu
 
 - 🌱 I’m currently learning Spring / svelte / prisma / typescript
 - 🤔 I’m looking for help with UI development
 - 📫 How to reach me: 2573580691@qq.com
-- 😄 Pronouns: yuanlu (元路)
 
 
 <!--
