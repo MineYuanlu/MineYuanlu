@@ -23,7 +23,7 @@ Student / Major: Big Data (数据科学与大数据技术) / OIer
 
 My Git: https://git.yuanlu.bid/yuanlu
 
-- 🌱 I’m currently learning Spring / svelte / prisma / typescript
+- 🌱 I’m currently learning Spring / svelte / prisma / typescript / opencv / C++
 - 🤔 I’m looking for help with UI development
 - 📫 How to reach me: 2573580691@qq.com
 
