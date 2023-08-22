@@ -3,6 +3,8 @@
 China - Beijing / UTC+08:00  
 Student / Major: Big Data (数据科学与大数据技术) / OIer  
 
+__正在实习，个人公开repo可能不再频繁commit__
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MineYuanlu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Like
